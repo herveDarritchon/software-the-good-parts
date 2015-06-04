@@ -9,5 +9,6 @@ deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
+        domain: github.com
         repo: herveDarritchon/herveDarritchon.github.io
         basedir: public
