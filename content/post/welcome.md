@@ -7,6 +7,13 @@ topics = ["Development", "Computer-Science", "Coding"]
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis deserunt fugiat rerum consequatur expedita mollitia, odio natus sit aut nesciunt unde assumenda possimus error, repellendus eligendi veritatis! Quasi, autem, optio.
+As a developper, I like to code, not a surprise. I don't like so much writing documentation but overall I hate to do something I have already done. And specially if it's to fix a bug I have already encountered.
+So if I can't remember how I have fixed it, it's worse.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quos, facere. Et beatae, culpa pariatur ut molestias alias quis quibusdam dolor ex, quasi, possimus repellat. Maiores nam accusamus porro quia.
+So I have deceded to do a blog, just to share my experience, my problems and how I have fixed its.
+
+At least, for me, it's a way to solve a problem ... Getting old I lost my memories ;)
+
+So welcome to this blog, I hope you will enjoy it as much as I have enjoyed writing it.
+
+Hervé
